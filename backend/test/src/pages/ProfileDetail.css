@@ -1,0 +1,48 @@
+.profile-detail-container {
+  max-width: 600px;
+  margin: 2rem auto;
+  padding: 1rem;
+  background-color: #1f2937;
+  color: white;
+  border-radius: 0.5rem;
+}
+.profile-info {
+  display: flex;
+  margin-bottom: 1rem;
+}
+.profile-photo {
+  width: 100px;
+  height: 100px;
+  background-color: #374151;
+  border-radius: 50%;
+  margin-right: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-text p {
+  margin: 0.25rem 0;
+}
+.request-form label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+.request-form select,
+.request-form textarea {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border-radius: 0.25rem;
+  border: none;
+}
+.request-form button {
+  background-color: #3b82f6;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+.request-form button:hover {
+  background-color: #2563eb;
+}

@@ -1,0 +1,77 @@
+.p-6 {
+  padding: 1.5rem;
+}
+.text-2xl {
+  font-size: 1.5rem;
+}
+.font-bold {
+  font-weight: 700;
+}
+.mb-4 {
+  margin-bottom: 1rem;
+}
+.grid {
+  display: grid;
+}
+.gap-4 {
+  gap: 1rem;
+}
+.border {
+  border: 1px solid #ddd;
+}
+.p-4 {
+  padding: 1rem;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.bg-white {
+  background-color: white;
+}
+.shadow {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.flex {
+  display: flex;
+}
+.items-center {
+  align-items: center;
+}
+.rounded-full {
+  border-radius: 9999px;
+}
+.w-12 {
+  width: 3rem;
+}
+.h-12 {
+  height: 3rem;
+}
+.mr-4 {
+  margin-right: 1rem;
+}
+.font-semibold {
+  font-weight: 600;
+}
+.ml-auto {
+  margin-left: auto;
+}
+.bg-blue-500 {
+  background-color: #3b82f6;
+}
+.text-white {
+  color: white;
+}
+.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+.rounded {
+  border-radius: 0.25rem;
+}
+.hover\:bg-blue-600:hover {
+  background-color: #2563eb;
+}
